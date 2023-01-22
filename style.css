@@ -1,0 +1,42 @@
+.hub{
+    background-color: #FF9900;
+    border-radius: 3px;
+    padding: 0 2px 1px 2px;
+    display:inline-block;
+}
+
+.logo {
+    background-color: #000000;
+    border-radius: 3px;
+    padding: 0 0 1px 5px;
+    display:inline-block;
+    font-size: larger;
+}
+span{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #252525;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.mySlides {
+    display:none;
+}
+
+.w3-content {
+    padding-bottom: 20px;
+}
+
+article{
+    padding: 20px 20px 20px 20px;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.w3-container {
+    padding: 0;
+}
